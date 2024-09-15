@@ -107,7 +107,7 @@ def show_help():
 
 # Função para abrir o perfil do Instagram
 def open_instagram():
-    webbrowser.open("https://www.instagram.com/eog_x/")
+    webbrowser.open("https://www.instagram.com/eog_xx/")
 
 # Criação da interface gráfica (GUI)
 def create_gui():
