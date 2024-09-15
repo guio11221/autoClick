@@ -1,3 +1,3 @@
 # autoClick
 
-  <img src="exemplo.png" height="30" alt="react logo"  />
+  <img src="exemplo.png"  alt="react logo"  />
